@@ -19,3 +19,14 @@ console.log("Endereço:", endereço);
 console.log(typeof endereço)
 
 //Tipo Null
+let salario = null;
+console.log("Salário:", salario);
+console.log(typeof salario)
+
+//Tipo Symbol
+let simbolo = Symbol("identificador único");
+console.log("Síbolo;", simbolo);
+console.log(typeof simbolo);
+
+//Tipo Bignt
+let numeroGrande = 
